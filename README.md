@@ -1,7 +1,7 @@
 # ms-key-activator
 
 
-1 Download [This](/Activator.md)
+1 Download [This](/Activator.cmd)
 
 2 Run as admin (yes, do it or it wont work ;-;)
 
